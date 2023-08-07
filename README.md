@@ -33,6 +33,5 @@
   N/A
   
   ## Questions
-  Github: https://github.com/bklein1981
+  Repo: https://github.com/bklein1981/README_Generator
   
-  email: You may contact me at bklein1981@gmail.com if you have additional questions.
