@@ -18,6 +18,8 @@
   
   ## Usage
   To run the markdown generator, use node index.js from the command line and answer the questions provided by the application.
+
+![README SAMPLE](./Assets/Images/README%20Image.png)
   
   ## License
   This software is not covered under any license.
